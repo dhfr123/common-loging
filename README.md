@@ -1,6 +1,7 @@
 common-loging
 =============
 Common Loging - Aktif Kreatif Teknologi
+Deni Husni Fahri Rizal
 
 - Komponen utama untuk kemampuan log dari aplikasi
 - Menggunkan Apache Log4J, SLF4J
